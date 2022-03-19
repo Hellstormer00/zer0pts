@@ -1,3 +1,3 @@
 # zer0pts
 
-<scriss>alert("lalal)</scriss>
+<script>alert("lalal)</script>
