@@ -1,3 +1,3 @@
 # zer0pts
 
-<script>alert("lalal")</script>
+<script>alert("lalal)
