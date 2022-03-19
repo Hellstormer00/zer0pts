@@ -1,3 +1,3 @@
 # zer0pts alex
 
-<?php echo "hallo" ?>
+<script>alert("hallo")</script>
